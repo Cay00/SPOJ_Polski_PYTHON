@@ -17,3 +17,5 @@ for _ in range(test):
             counter = 1
         else:
             counter += 1
+
+    print()
